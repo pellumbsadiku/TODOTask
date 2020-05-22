@@ -1,0 +1,39 @@
+body {
+    color: white;
+}
+.container {
+    width: 100%;
+   
+}
+
+.text-left {
+    text-align: left;
+    
+}
+
+.text-center{
+    float: left;
+}
+
+.uppercase {
+	text-transform: uppercase;
+}
+
+.font-bold {
+    font-weight: 700;
+    
+	
+}
+
+h1 {
+	font-size: 2em;
+	margin: .67em 0
+}
+
+.leading-tight {
+	line-height: 1.25;
+}
+.leading-normal {
+	line-height: 1.5
+}
+

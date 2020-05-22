@@ -1,0 +1,59 @@
+
+time{
+    color:#666666 !important;
+    font-size: 13px;
+    font-family: 'Georgia', 'Times New Roman', Times, serif
+    }
+    input[type="text"]{
+    height: 50px;
+    }
+    b{
+    display: block
+    }
+    .people-you-might-know{
+    padding:0 !important;
+    margin-bottom:10px;
+    border-radius: 5px;
+    }
+    
+    .add-friend-action {
+        float: right;
+        position: relative;
+        margin-right: 50px;
+    }
+    #delet{
+        padding: 15px;
+        margin-top: -15px;
+        color:black;
+        background: wheat;
+    }
+    
+    #delet:hover {
+        background: #c52b2b;
+        box-shadow: 0px 5px 20px -3px rgba(44, 43, 43, 0.65);
+        
+      }
+    
+    .columns{
+        padding: 10px;
+       
+    }
+    
+    .about-people{
+        background: rgb(63, 68, 70);
+        border-radius: 20px;
+    }
+    
+    #donne{
+        padding: 15px;
+        margin-top: -15px;
+        color:black;
+        background: rgb(179, 245, 179);
+        
+    }
+    #done:hover {
+        background: #2bc552;
+        box-shadow: 0px 5px 20px -3px rgba(44, 43, 43, 0.65);
+        
+      }
+    
